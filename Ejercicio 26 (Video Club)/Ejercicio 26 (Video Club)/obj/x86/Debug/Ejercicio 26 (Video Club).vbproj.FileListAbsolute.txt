@@ -1,0 +1,59 @@
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe.config
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\VideoClub.sdf
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).pdb
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).xml
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form1.resources
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Resources.resources
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbproj.GenerateResource.Cache
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).exe
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).xml
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).pdb
+C:\Users\RetailAdmin\Desktop\Programacion 2º\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form2.resources
+I:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe.config
+I:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).exe
+I:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).xml
+I:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).pdb
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe.config
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).exe
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).xml
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).pdb
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\VideoClub.sdf
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).pdb
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).xml
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbprojResolveAssemblyReference.cache
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form1.resources
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form2.resources
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Resources.resources
+E:\Programacion Visual Studio\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbproj.GenerateResource.Cache
+I:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe.config
+I:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).exe
+I:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).xml
+I:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).pdb
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe.config
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).exe
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).xml
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).pdb
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\VideoClub.sdf
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).pdb
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).xml
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbprojResolveAssemblyReference.cache
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form1.resources
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form2.resources
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Resources.resources
+D:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbproj.GenerateResource.Cache
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe.config
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).exe
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).xml
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).pdb
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\VideoClub.sdf
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).exe
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).pdb
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\bin\Debug\Ejercicio 26 (Video Club).xml
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbprojResolveAssemblyReference.cache
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form1.resources
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Form2.resources
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Video_Club.Resources.resources
+E:\Ejercicio 26 (Video Club)\Ejercicio 26 (Video Club)\obj\x86\Debug\Ejercicio 26 (Video Club).vbproj.GenerateResource.Cache

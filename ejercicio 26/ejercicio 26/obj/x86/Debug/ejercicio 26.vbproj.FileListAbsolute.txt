@@ -1,0 +1,41 @@
+D:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.exe.config
+D:\programacion\ejercicio 26\ejercicio 26\bin\Debug\farmacia.sdf
+D:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.exe
+D:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.pdb
+D:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.xml
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.principal.resources
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Altas2.resources
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Resources.resources
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.vbproj.GenerateResource.Cache
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.exe
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.xml
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.pdb
+D:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Modificar.resources
+G:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.exe.config
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.xml
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.pdb
+G:\programacion\ejercicio 26\ejercicio 26\bin\Debug\farmacia.sdf
+G:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.exe
+G:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.pdb
+G:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.xml
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Modificar.resources
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.principal.resources
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Altas2.resources
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Resources.resources
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.exe
+E:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.exe.config
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.xml
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.pdb
+E:\programacion\ejercicio 26\ejercicio 26\bin\Debug\farmacia.sdf
+E:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.exe
+E:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.pdb
+E:\programacion\ejercicio 26\ejercicio 26\bin\Debug\ejercicio 26.xml
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Modificar.resources
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.principal.resources
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Altas2.resources
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio_26.Resources.resources
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.vbproj.GenerateResource.Cache
+E:\programacion\ejercicio 26\ejercicio 26\obj\x86\Debug\ejercicio 26.exe

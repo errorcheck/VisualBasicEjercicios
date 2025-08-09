@@ -1,4 +1,13 @@
-﻿Public Class frmVenta
+Public Class frmVenta
+    Private searchTimer As New Timer()
+    Private lastSearchText As String = ""
+
+    Public Sub New()
+        InitializeComponent()
+        ' Initialize search timer for better performance
+        searchTimer.Interval = 300 ' 300ms delay for debouncing
+        AddHandler searchTimer.Tick, AddressOf SearchTimer_Tick
+    End Sub
 
     Private Sub StockBindingNavigatorSaveItem_Click(sender As System.Object, e As System.EventArgs)
         Me.Validate()
@@ -44,11 +53,16 @@
                     'Finaliza la actualizacion del stock
                     Me.StockBindingSource.EndEdit()
                     Me.TableAdapterManager.UpdateAll(Me.FarmaciaBDDataSet)
-                    'Actualiza conexion en el principal
-                    frmPrincipal.StockTableAdapter.Fill(frmPrincipal.FarmaciaBDDataSet.Stock)
-                    'Vuelve a cargar los datos (refresca)
-                    Me.StockTableAdapter.Fill(Me.FarmaciaBDDataSet.Stock)
-                    Me.VentasTableAdapter.Fill(Me.FarmaciaBDDataSet.Ventas)
+                    
+                    ' OPTIMIZATION: Only update parent form if it's open and visible
+                    If frmPrincipal.Visible Then
+                        frmPrincipal.StockTableAdapter.Fill(frmPrincipal.FarmaciaBDDataSet.Stock)
+                    End If
+                    
+                    ' OPTIMIZATION: No need to reload all data, just refresh current view
+                    ' Remove redundant data fills - data is already updated in memory
+                    ' Me.StockTableAdapter.Fill(Me.FarmaciaBDDataSet.Stock)
+                    ' Me.VentasTableAdapter.Fill(Me.FarmaciaBDDataSet.Ventas)
                 End If
 
             End If
@@ -57,14 +71,26 @@
     End Sub
 
     Private Sub txtCodArticulo_TextChanged(sender As System.Object, e As System.EventArgs) Handles txtCodArticulo.TextChanged
-        Dim vista As New DataView
-        vista.Table = Me.FarmaciaBDDataSet.Stock
-        vista.RowFilter = "IDProducto=" & Val(txtCodArticulo.Text)
-        Me.StockDataGridView.DataSource = vista
-        If txtCodArticulo.Text = String.Empty Then
-            Me.StockTableAdapter.Fill(Me.FarmaciaBDDataSet.Stock)
+        ' OPTIMIZATION: Debounce search to avoid excessive filtering
+        searchTimer.Stop()
+        lastSearchText = txtCodArticulo.Text
+        searchTimer.Start()
+    End Sub
+    
+    Private Sub SearchTimer_Tick(sender As Object, e As EventArgs)
+        searchTimer.Stop()
+        
+        If lastSearchText = String.Empty Then
             Me.StockDataGridView.DataSource = Me.StockBindingSource
+        Else
+            ' OPTIMIZATION: Use existing DataView instead of creating new one each time
+            Dim vista As DataView = CType(Me.StockDataGridView.DataSource, DataView)
+            If vista Is Nothing Then
+                vista = New DataView()
+                vista.Table = Me.FarmaciaBDDataSet.Stock
+            End If
+            vista.RowFilter = "IDProducto=" & Val(lastSearchText)
+            Me.StockDataGridView.DataSource = vista
         End If
-
     End Sub
 End Class

@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1
 
     Private Sub StockBindingNavigatorSaveItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles StockBindingNavigatorSaveItem.Click
         Me.Validate()
@@ -86,7 +86,9 @@
                     Me.StockBindingSource.Current("Cantidad") = StockBindingSource.Current("Cantidad") - 1
                     Me.StockBindingSource.EndEdit() 'Cierro Edicion
                     Me.TableAdapterManager.UpdateAll(Me.VideoClubDataSet)
-                    Me.StockTableAdapter.Fill(Me.VideoClubDataSet.Stock)
+                    
+                    ' OPTIMIZATION: Remove redundant data fill - data is already updated in memory
+                    ' Me.StockTableAdapter.Fill(Me.VideoClubDataSet.Stock)
                     MsgBox("El Video Ha Sido Alquilado")
 
                 Else
@@ -118,7 +120,9 @@
                     Me.StockBindingSource.Current("Cantidad") = StockBindingSource.Current("Cantidad") + 1
                     Me.StockBindingSource.EndEdit() 'Cierro Edicion
                     Me.TableAdapterManager.UpdateAll(Me.VideoClubDataSet)
-                    Me.StockTableAdapter.Fill(Me.VideoClubDataSet.Stock)
+                    
+                    ' OPTIMIZATION: Remove redundant data fill - data is already updated in memory
+                    ' Me.StockTableAdapter.Fill(Me.VideoClubDataSet.Stock)
                     MsgBox("El Video Ha Sido Devuelto")
 
                 Else
